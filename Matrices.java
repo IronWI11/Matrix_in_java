@@ -1,7 +1,5 @@
 import java.util.Scanner;
 
-import Lab_22.PrintArray;
-
 public class Matrices {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
